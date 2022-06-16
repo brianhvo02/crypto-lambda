@@ -1,0 +1,3 @@
+[submodule "crypto-lambda-cdk"]
+	path = crypto-lambda-cdk
+	url = https://github.com/brianhvo02/crypto-lambda-cdk.git
